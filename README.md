@@ -65,7 +65,7 @@ Mean optimality gap (lower is better):
 
 Mean runtime per run at 40 stops: Nearest Neighbor about 0 s, SA 0.31 s, GA 0.49 s, GA + 2-opt 3.07 s.
 
-![Convergence at 40 stops](results/convergence.png)
+![Convergence at 40 stops](convergence.png)
 
 Observations:
 
