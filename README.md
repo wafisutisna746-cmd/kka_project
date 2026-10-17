@@ -1,4 +1,4 @@
-# KKA Midterm project
+# KKA Midterm Project
 
 |    NRP     |           Nama             |
 | :--------: |       :------------:       |
