@@ -121,7 +121,3 @@ On macOS or Linux, use `python3` instead of `py`.
 ## Tools
 
 Python, OSMnx, NetworkX, NumPy, pandas, Matplotlib, scikit-learn.
-
-## Authors
-
-Add your names and student IDs here.
