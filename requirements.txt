@@ -1,6 +1,0 @@
-osmnx
-networkx
-numpy
-pandas
-matplotlib
-scikit-learn
