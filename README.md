@@ -8,7 +8,7 @@
 | 5025251017 | Wafi Fawwaz Sutisna                    |
 
 
-# ITS Campus Multi-Stop Route Optimization
+# Planning the Shortest Walking Route Between Buildings on the ITS Campus
 
 Midterm project for the Artificial Intelligence course (myITS Classroom). We study the problem of planning the shortest walking route that visits several buildings on the ITS Surabaya (Sukolilo) campus and returns to the start, and compare four search and optimization methods on it.
 
